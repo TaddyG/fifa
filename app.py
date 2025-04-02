@@ -1,4 +1,4 @@
-#Dashboard: https://your-published-link.render.com (password: soccer123)
+#Dashboard: https://fifa-soccer-world-cup-dashboard.onrender.com
 
 import dash
 from dash import dcc, html, dash_table
