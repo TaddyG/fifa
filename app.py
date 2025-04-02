@@ -62,6 +62,7 @@ fig_choropleth = px.choropleth(
 #Creating layout
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("FIFA Soccer World Cup Dashboard", style={'textAlign': 'center'}),
