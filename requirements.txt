@@ -3,3 +3,4 @@ dash-table
 plotly
 pandas
 numpy
+gunicorn
